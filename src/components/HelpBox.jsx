@@ -8,6 +8,7 @@ function HelpBox({ title, text }) {
       <h3>{title}</h3>
       <p>{text}</p>
       <b>New york is the best</b>
+      <h1>Skipped workflow </h1>
     </article>
   );
 }
